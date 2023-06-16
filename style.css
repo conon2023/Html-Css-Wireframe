@@ -1,0 +1,47 @@
+#namebutton {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+        color: blue;
+      }
+      
+      #nameButton {
+        margin-top: 20px; /* Adjust the margin as needed */
+      }
+
+      #nameButton {
+        margin-top: 20px;
+        width: 200px; /* Adjust the width as needed */
+        height: 50px; /* Adjust the height as needed */
+      }
+
+      #nameButton {
+        background-color:red; /* Change to your desired color */
+        /* Additional CSS properties */
+        color: white; /* Text color */
+        font-size: 16px; /* Font size */
+        border: none; /* Remove border */
+        border-radius: 5px; /* Add rounded corners */
+        padding: 10px 20px; /* Add padding */
+        border-color: yellow;
+        
+    }
+
+    #colorbutton {
+        background-color:blue; /* Change to your desired color */
+        /* Additional CSS properties */
+        color: white; /* Text color */
+        font-size: 16px; /* Font size */
+        border: none; /* Remove border */
+        border-radius: 5px; /* Add rounded corners */
+        padding: 10px 20px; /* Add padding */
+        border-color: red;
+        
+    }
+    #colorBox {
+        width: 200px;
+        height: 200px;
+        background-color: yellow;
+      }
